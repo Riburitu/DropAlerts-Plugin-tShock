@@ -43,7 +43,7 @@ Install the .NET 9 SDK, create a `References` folder and copy `TShockAPI.dll`, `
 
 ## Credits
 - Author: **Riburitu**.
-- Based on the tModLoader mod **Drop Alerts (Server Side)** and its original author's [Narnia](https://github.com/xNarnia/DropAlerts/tree/main).
+- Based on the plugin/mod **Drop Alerts** and its original author's [Narnia](https://github.com/xNarnia/DropAlerts/tree/main).
 
 ---
 
@@ -89,4 +89,4 @@ Instale el SDK de .NET 9, cree una carpeta `References` y copie en ella `TShockA
 
 ## Créditos
 - Autor: **Riburitu**.
-- Basado en el mod de tModLoader **Drop Alerts (Server Side)** y en su autor original [Narnia](https://github.com/xNarnia/DropAlerts/tree/main).
+- Basado en el plugin/mod **Drop Alerts** y en su autor original [Narnia](https://github.com/xNarnia/DropAlerts/tree/main).
