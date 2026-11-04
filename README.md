@@ -1,7 +1,8 @@
 # DropAlerts
 
-**English** · [Español](#español)
+**English** · **[Español](#español)**
 
+## English
 TShock plugin that warns nearby players when someone gets a **rare drop**, using four "star" levels. It is a port of the tModLoader mod *Drop Alerts* to TShock.
 
 - **Compatible with:** Terraria 1.4.5.8 · TShock 6.2.1 (.NET 9) · plugin API 2.1
