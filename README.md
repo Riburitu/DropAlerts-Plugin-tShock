@@ -33,7 +33,7 @@ Each player's choice is saved, so it persists between sessions.
 | Option | Default | Meaning |
 |---|---|---|
 | `Enable1StarDropNotice` … `Enable4StarDropNotice` | `true` | Enable each level server-wide. |
-| `Percent1Star` / `2Star` / `3Star` / `4Star` | `5` / `3` / `1` / `0.5` | Drop-chance threshold (%) of each level. |
+| `Percent1Star` / `2Star` / `3Star` / `4Star` | `10` / `5` / `2` / `1` | Drop-chance threshold (%) of each level. |
 | `AlertDistance` | `3000` | Distance in pixels within which players are warned. |
 | `PlaySounds` | `true` | Play a sound with the alert. |
 
