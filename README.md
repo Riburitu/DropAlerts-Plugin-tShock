@@ -24,6 +24,7 @@ TShock plugin that warns nearby players when someone gets a **rare drop**, using
 | `/dropon <1-4>` | *None* | Turn on alerts for that star level (for you only). |
 | `/dropoff <1-4>` | *None* | Turn off alerts for that star level (for you only). |
 | `/showdrops` | *None* | Show which levels are on or off for you and their percentages. |
+| `/droplang <en/es>` | *None* | Choose the language in which the plugin will be displayed to the player. |
 | `/dropsound <args>` | `dropalerts.test` | Administrative command to test and preview drop sounds. |
 
 Each player's choice is saved, so it persists between sessions.
@@ -69,6 +70,7 @@ Plugin de TShock que avisa a los jugadores cercanos cuando alguien consigue un *
 | `/dropon <1-4>` | *Ninguno* | Activa los avisos de ese nivel de estrellas (solo para usted). |
 | `/dropoff <1-4>` | *Ninguno* | Desactiva los avisos de ese nivel (solo para usted). |
 | `/showdrops` | *Ninguno* | Muestra qué niveles tiene activados o desactivados y sus porcentajes. |
+| `/droplang <en/es>` | *Ninguno* | Elige el lenguaje que se mostrara el plugin con el jugador. |
 | `/dropsound <args>` | `dropalerts.test` | Comando administrativo para probar y reproducir los sonidos de los avisos. |
 
 La elección de cada jugador se guarda y se mantiene entre sesiones.
