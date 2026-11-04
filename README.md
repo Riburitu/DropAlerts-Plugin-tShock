@@ -78,7 +78,7 @@ La elección de cada jugador se guarda y se mantiene entre sesiones.
 | Opción | Por defecto | Significado |
 |---|---|---|
 | `Enable1StarDropNotice` … `Enable4StarDropNotice` | `true` | Activa cada level para todo el servidor. |
-| `Percent1Star` / `2Star` / `3Star` / `4Star` | `5` / `3` / `1` / `0.5` | Umbral de probabilidad (%) de cada nivel. |
+| `Percent1Star` / `2Star` / `3Star` / `4Star` | `10` / `5` / `2` / `1` | Umbral de probabilidad (%) de cada nivel. |
 | `AlertDistance` | `3000` | Distancia en píxeles a la que se avisa a los jugadores. |
 | `PlaySounds` | `true` | Reproduce un sonido con el aviso. |
 
