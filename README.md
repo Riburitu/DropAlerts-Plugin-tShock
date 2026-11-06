@@ -9,6 +9,11 @@ TShock plugin that warns nearby players when someone gets a **rare drop**, using
 - **Status:** finished and tested by the author on Terraria 1.4.5.8 / TShock 6.2.1. Compiled `DropAlerts.dll` files are published on the project's *Releases* page.
 - **License:** [GNU GPL v3](LICENSE) — you may use, modify and share it, but any modified version you distribute must also be open source under the same license, so improvements come back to everyone.
 
+## Demo video
+▶️ **[Watch the demo on YouTube](https://www.youtube.com/watch?v=kMX18i5vTj0)** — *DropAlerts Exposition - TShock Plugin 1.4.5.8*
+
+[![DropAlerts demo video](https://img.youtube.com/vi/kMX18i5vTj0/hqdefault.jpg)](https://www.youtube.com/watch?v=kMX18i5vTj0)
+
 ## Installation
 1. Download `DropAlerts.dll` from *Releases*.
 2. Copy it to your server's `ServerPlugins` folder.
@@ -54,6 +59,11 @@ Plugin de TShock que avisa a los jugadores cercanos cuando alguien consigue un *
 - **Compatible con:** Terraria 1.4.5.8 · TShock 6.2.1 (.NET 9) · API de plugins 2.1
 - **Estado:** terminado y probado por el autor en Terraria 1.4.5.8 / TShock 6.2.1. Los `DropAlerts.dll` ya compilados se publican en la página de *Releases* del proyecto.
 - **Licencia:** [GNU GPL v3](LICENSE) — puede usarlo, modificarlo y compartirlo, pero toda versión modificada que distribuya debe seguir siendo de código abierto con la misma licencia, de modo que las mejoras vuelvan a todos.
+
+## Vídeo de demostración
+▶️ **[Ver la demostración en YouTube](https://www.youtube.com/watch?v=kMX18i5vTj0)** — *DropAlerts Exposition - TShock Plugin 1.4.5.8*
+
+[![Vídeo de demostración de DropAlerts](https://img.youtube.com/vi/kMX18i5vTj0/hqdefault.jpg)](https://www.youtube.com/watch?v=kMX18i5vTj0)
 
 ## Instalación
 1. Descargue `DropAlerts.dll` desde *Releases*.
